@@ -150,6 +150,16 @@ body {
     font-size: 20px;
 }
 
+.input-box img {
+    width: 17px;
+    cursor: pointer;
+    position: absolute;
+    left: 270px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+}
+
 .wrapper .remember-forgot {
     display: flex;
     justify-content: space-between;
